@@ -4,7 +4,11 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log("9");
+console.log(9+3);
+console.log("hi earthlings"); console.log("hi aliens");
+console.log("he said 'and i am death'");
 
 /*  
 Next, PLAY! 
